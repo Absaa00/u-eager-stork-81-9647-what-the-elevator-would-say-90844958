@@ -1,0 +1,11 @@
+# What the Elevator Would Say -- local-only artefacts for this one-line entry
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+output.txt
+*.log
+.venv/
+venv/
