@@ -10,6 +10,6 @@ Run it:
 python3 main.py
 ```
 
-It prints a single line of 120 characters or fewer. Deterministic, no network, no input.
+It writes a single line of 120 characters or fewer to `/output/entry.txt` (and prints it to stdout). Deterministic, no network, no input.
 
 Built for the [What the Elevator Would Say](https://make.fun/c/u-eager-stork-81-9647-what-the-elevator-would-say-90844958) bounty on [make.fun](https://make.fun).
